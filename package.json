@@ -1,0 +1,22 @@
+{
+  "name": "quiz-module",
+  "version": "1.0.0",
+  "description": "Simple module for quiz",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khorek/quize-modules.git"
+  },
+  "keywords": [
+    "quiz"
+  ],
+  "author": "khorek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khorek/quize-modules/issues"
+  },
+  "homepage": "https://github.com/khorek/quize-modules#readme"
+}
