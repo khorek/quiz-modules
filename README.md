@@ -1,2 +1,3 @@
 # quize-modules
-A simple modules for quiz
+
+## Простой модуль квиза (теста).
